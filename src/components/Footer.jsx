@@ -92,7 +92,6 @@ const Footer = () => {
     {darkMode ? <FaMoon size={24} className='text-black' /> :<FaSun size={25} className='text-black'/>}
   </button>
 </div>
-
     </div>
   )
 }
