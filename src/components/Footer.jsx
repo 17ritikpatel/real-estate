@@ -86,7 +86,6 @@ const Footer = () => {
   <Link to='hero' spy={true} offset={-100} smooth={true}>
   <FaArrowUp className='size-6 text-white'/>
   </Link>
-
 </div>
 <div>
   <button onClick={toggleDarkMode} className='flex items-center p-4 rounded-full bg-orange-500 fixed lg:top-52 right-6 top-6'>
